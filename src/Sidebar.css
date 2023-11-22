@@ -1,0 +1,16 @@
+/* Sidebar.css */
+
+.sidebar-container {
+  width: 250px;
+  background-color: #f4f4f4;
+  padding: 1rem;
+  margin: 1rem;
+  border: 1px solid #ddd;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar-content {
+  font-size: 16px;
+  color: #333;
+  text-align: center;
+}
