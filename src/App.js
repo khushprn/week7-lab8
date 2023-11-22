@@ -10,10 +10,10 @@ import Footer from './Footer';
 const App = () => {
   // Define JavaScript variables for dynamic content
   const headerTitle = 'My React App';
-  const sectionHeading = 'Welcome to my website';
-  const sectionContent = 'This is a sample React application.';
-  const articleTitle = 'Article Title';
-  const articleText = 'This is the content of the article.';
+  const sectionHeading = 'Welcome to website of Khushpreet';
+  const sectionContent = 'This is a sample React application made by Khush.';
+  const articleTitle = 'Atricle of React';
+  const articleText = 'This is my first sample React application.';
   const sidebarContent = 'Sidebar Content';
   const footerText = '© 2023 My React App';
 
